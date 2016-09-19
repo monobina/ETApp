@@ -1,5 +1,6 @@
 ####This app outputs total ET factor for given 'date range' and 'account numbers'/'order numbers'####
 ####Also outputs ET factor for the same date range in previous 2 years for comparision####
+### Tables Formatted ###
 
 #Loading Libraries
 library(shiny)
